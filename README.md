@@ -11,7 +11,6 @@ A formal `setup.py` is not available yet. To install:
     $ git clone https://github.com/biocore/eviiom.git
     $ cd eviiom
     $ export PYTHONPATH=`pwd`:$PYTHONPATH
-    $ python eviiom/drive.py
     $ python eviiom/drive.py blend --help
     Usage: drive.py blend [OPTIONS]
 
